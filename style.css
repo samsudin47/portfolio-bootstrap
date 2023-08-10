@@ -10,4 +10,5 @@ body::before {
 
 #about-me {
   text-align: justify;
+  align-items: center;
 }

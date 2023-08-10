@@ -7,3 +7,7 @@ body::before {
   content: "";
   height: 60px;
 }
+
+#about-me {
+  text-align: justify;
+}

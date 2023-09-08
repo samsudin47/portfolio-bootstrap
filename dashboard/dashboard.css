@@ -2,3 +2,9 @@
 body {
   font-family: "Roboto Slab", serif;
 }
+
+#image {
+  height: 40%;
+  width: 40%;
+  cursor: pointer;
+}
